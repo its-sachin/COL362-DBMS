@@ -32,4 +32,5 @@ def plot():
     plt.title('Query vs Time Bas Graph')
     plt.show()
 
+# create()
 plot()
