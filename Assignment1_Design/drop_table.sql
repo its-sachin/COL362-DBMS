@@ -1,0 +1,10 @@
+DROP TABLE  IF  EXISTS constructorResults;
+DROP TABLE  IF  EXISTS results;
+DROP TABLE  IF  EXISTS qualifying;
+DROP TABLE  IF  EXISTS lapTimes;
+DROP TABLE  IF  EXISTS pitStops;
+DROP TABLE  IF  EXISTS races;
+DROP TABLE  IF  EXISTS status;
+DROP TABLE  IF  EXISTS constructors;
+DROP TABLE  IF  EXISTS circuits;
+DROP TABLE  IF  EXISTS drivers;
