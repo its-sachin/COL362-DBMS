@@ -1,0 +1,138 @@
+ destination_station_name | source_station_name | distance 
+--------------------------+---------------------+----------
+ a                        | c                   |        4
+ a                        | e                   |        3
+ a                        | g                   |        2
+ a                        | h                   |        4
+ a                        | i                   |        1
+ a                        | j                   |        4
+ b                        | a                   |        1
+ b                        | c                   |        5
+ b                        | e                   |        4
+ b                        | g                   |        3
+ b                        | h                   |        5
+ b                        | i                   |        2
+ b                        | j                   |        5
+ c                        | a                   |        1
+ c                        | e                   |        4
+ c                        | g                   |        3
+ c                        | h                   |        5
+ c                        | i                   |        2
+ c                        | j                   |        5
+ d                        | a                   |        2
+ d                        | c                   |        1
+ d                        | e                   |        5
+ d                        | g                   |        4
+ d                        | h                   |        6
+ d                        | i                   |        3
+ d                        | j                   |        6
+ e                        | a                   |        2
+ e                        | c                   |        1
+ e                        | g                   |        2
+ e                        | h                   |        1
+ e                        | i                   |        2
+ e                        | j                   |        1
+ f                        | a                   |        3
+ f                        | c                   |        2
+ f                        | e                   |        1
+ f                        | g                   |        3
+ f                        | h                   |        2
+ f                        | i                   |        3
+ f                        | j                   |        2
+ g                        | a                   |        3
+ g                        | c                   |        2
+ g                        | e                   |        1
+ g                        | h                   |        2
+ g                        | i                   |        3
+ g                        | j                   |        2
+ h                        | a                   |        4
+ h                        | c                   |        3
+ h                        | e                   |        2
+ h                        | g                   |        1
+ h                        | i                   |        4
+ h                        | j                   |        3
+ i                        | a                   |        4
+ i                        | c                   |        3
+ i                        | e                   |        2
+ i                        | g                   |        1
+ i                        | h                   |        3
+ i                        | j                   |        3
+ j                        | a                   |        5
+ j                        | c                   |        4
+ j                        | e                   |        3
+ j                        | g                   |        2
+ j                        | h                   |        4
+ j                        | i                   |        1
+ k                        | a                   |        5
+ k                        | c                   |        4
+ k                        | e                   |        3
+ k                        | g                   |        2
+ k                        | h                   |        4
+ k                        | i                   |        1
+ k                        | j                   |        4
+(70 rows)
+
+ source_station_name | destination_station_name 
+---------------------+--------------------------
+ a                   | b
+ a                   | c
+ a                   | d
+ a                   | e
+ a                   | f
+ a                   | g
+ a                   | h
+ a                   | i
+ c                   | a
+ c                   | d
+ c                   | e
+ c                   | f
+ c                   | g
+ c                   | h
+ c                   | i
+ c                   | j
+ c                   | k
+ e                   | a
+ e                   | b
+ e                   | c
+ e                   | f
+ e                   | g
+ e                   | h
+ e                   | i
+ e                   | j
+ e                   | k
+ g                   | a
+ g                   | b
+ g                   | c
+ g                   | d
+ g                   | e
+ g                   | f
+ g                   | h
+ g                   | i
+ g                   | j
+ g                   | k
+ h                   | a
+ h                   | e
+ h                   | f
+ h                   | g
+ h                   | i
+ h                   | j
+ h                   | k
+ i                   | a
+ i                   | b
+ i                   | c
+ i                   | d
+ i                   | e
+ i                   | f
+ i                   | g
+ i                   | h
+ i                   | j
+ i                   | k
+ j                   | a
+ j                   | e
+ j                   | f
+ j                   | g
+ j                   | h
+ j                   | i
+ j                   | k
+(60 rows)
+

@@ -1,0 +1,88 @@
+        teamnames        
+-------------------------
+ Aston Villa
+ Bournemouth
+ Brighton
+ Burnley
+ Cardiff
+ Chelsea
+ Crystal Palace
+ Everton
+ Fulham
+ Huddersfield
+ Hull
+ Leeds
+ Leicester
+ Liverpool
+ Manchester City
+ Manchester United
+ Middlesbrough
+ Newcastle United
+ Norwich
+ Queens Park Rangers
+ Sheffield United
+ Southampton
+ Stoke
+ Sunderland
+ Swansea
+ Tottenham
+ Watford
+ West Bromwich Albion
+ West Ham
+ Wolverhampton Wanderers
+(30 rows)
+
+    teamnames    | goals | year 
+-----------------+-------+------
+ Manchester City |   620 | 2014
+(1 row)
+
+    teamnames     | goals 
+------------------+-------
+ Crystal Palace   |     4
+ Everton          |     4
+ Everton          |     4
+ Manchester City  |     4
+ Newcastle United |     4
+ Southampton      |     4
+ Arsenal          |     5
+ Manchester City  |     5
+ Manchester City  |     5
+ Southampton      |     5
+ Stoke            |     5
+ Manchester City  |     6
+(12 rows)
+
+ playernames  | score 
+--------------+-------
+ Lionel Messi |   226
+(1 row)
+
+   playernames   | assistscount 
+-----------------+--------------
+ Kevin De Bruyne |           76
+(1 row)
+
+  playernames   | shotscount 
+----------------+------------
+ Gonzalo Higuan |        150
+(1 row)
+
+ teamname  | year 
+-----------+------
+ Atalanta  | 2020
+ Benevento | 2020
+ Bologna   | 2020
+ Brescia   | 2020
+ Cagliari  | 2020
+(5 rows)
+
+   leaguename   |  playernames   | playertopscore |      teamname       | teamtopscore 
+----------------+----------------+----------------+---------------------+--------------
+ Premier League | Jamie Vardy    |             28 | Manchester City     |           95
+ La Liga        | Karim Benzema  |             27 | Barcelona           |           89
+ Bundesliga     | Timo Werner    |             23 | Bayern Munich       |           98
+ Serie A        | Ciro Immobile  |             22 | Atalanta            |           81
+ Ligue 1        | Moussa Dembele |             21 | Paris Saint Germain |           98
+(5 rows)
+
